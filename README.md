@@ -1,3 +1,9 @@
+
+
+
+### This code is associated with the paper from Mahmoudabadi et al., "Research: A comprehensive and quantitative exploration of thousands of viral genomes". eLife, 2018. http://dx.doi.org/10.7554/eLife.31955
+
+
 # VirologyByTheNumbers
 **This is a series of code, input data, and output files that accompany the manuscript "Viral Genomes by the Numbers: A Comprehensive Quantitative Exploration of Thousands of Viruses" by Gita Mahmoudabadi and Rob Phillips. If using these scripts or data, please cite our manuscript.**
 
